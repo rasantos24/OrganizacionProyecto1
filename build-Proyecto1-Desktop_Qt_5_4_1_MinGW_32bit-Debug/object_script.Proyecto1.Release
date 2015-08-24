@@ -1,0 +1,12 @@
+INPUT(
+./release\main.o
+./release\proyecto1organizacion.o
+./release\bitmap.o
+./release\fantescritor.o
+./release\inodo.o
+./release\inodotabla.o
+./release\lectura.o
+./release\superblock.o
+./release\discoduro.o
+./release\moc_proyecto1organizacion.o
+);

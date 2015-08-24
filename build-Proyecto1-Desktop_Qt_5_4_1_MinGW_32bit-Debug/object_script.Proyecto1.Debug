@@ -1,0 +1,12 @@
+INPUT(
+./debug\main.o
+./debug\proyecto1organizacion.o
+./debug\bitmap.o
+./debug\fantescritor.o
+./debug\inodo.o
+./debug\inodotabla.o
+./debug\lectura.o
+./debug\superblock.o
+./debug\discoduro.o
+./debug\moc_proyecto1organizacion.o
+);
